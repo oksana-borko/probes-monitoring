@@ -79,5 +79,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>analyzer</module>
+		<module>avg-reducer</module>
 	</modules>
 </project>

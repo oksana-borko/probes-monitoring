@@ -9,6 +9,11 @@
   <dependencies>
   	<dependency>
   		<groupId>telran.probes</groupId>
+  		<artifactId>avg-reducer</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>telran.probes</groupId>
   		<artifactId>probes-api</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>

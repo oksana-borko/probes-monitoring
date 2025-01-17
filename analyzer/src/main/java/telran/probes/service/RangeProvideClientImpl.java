@@ -18,7 +18,7 @@ import telran.probes.dto.SensorUpdateData;
 @Configuration
 @Service
 @Slf4j
-public class RangeProviderClientImpl implements RangeProviderClient {
+public class RangeProvideClientImpl implements RangeProviderClient {
 
 	@Autowired
 	RestTemplate rest;
